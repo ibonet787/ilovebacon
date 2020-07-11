@@ -1,0 +1,13 @@
+h1 {
+  font-size: 200px;
+  color: red;
+}
+
+.cat {
+  background-color: salmon;
+}
+
+.bacon {
+  background-color: seagreen;
+  border-radius: 50px;
+}
